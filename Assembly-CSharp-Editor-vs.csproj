@@ -48,9 +48,6 @@
   <ItemGroup>
      <Compile Include="Assets\Uniducial\Editor\UniducialInspector.cs" />
      <Compile Include="Assets\Uniducial\Editor\UniducialMenu.cs" />
- <Reference Include="Assembly-UnityScript">
- <HintPath>/Users/murilopolese/Unity/Nobia/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
