@@ -46,8 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Nobia\NobiaFiducial.cs" />
      <Compile Include="Assets\Uniducial\FiducialController.cs" />
-     <Compile Include="Assets\Uniducial\NobiaFiducial.cs" />
      <Compile Include="Assets\Uniducial\TUIOConnector\OSCBundle.cs" />
      <Compile Include="Assets\Uniducial\TUIOConnector\OSCMessage.cs" />
      <Compile Include="Assets\Uniducial\TUIOConnector\OSCPacket.cs" />
