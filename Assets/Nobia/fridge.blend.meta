@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 3c7eda40910eb43eab87e2485dfecbd1
-timeCreated: 1441096227
+guid: 325f3b8f1906c4d5c98fa97f5d2c9ac1
+timeCreated: 1441101868
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -9,7 +9,9 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: 3      011
+    4300000: 10_____011
+    7400000: Default Take
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -67,7 +69,7 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   additionalBone: 0
   userData: 
   assetBundleName: 
